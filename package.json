@@ -1,0 +1,8 @@
+{
+  "name": "socket-orientation",
+  "version": "0.0.1",
+  "description": "Uses websockets to visualise the orientation of a device that supports DeviceOrientationEvent in real-time",
+  "dependencies": {
+    "socket.io": "^1.0.6"
+  }
+}
